@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SIGViewer</string>
+    <string name="google_api_key">AIzaSyCXzlbv7A68PrbvPcC4wSTgbQPZwtviHQk</string>
+    <string name="str_btn_find">Find</string>
+
+    <string-array name="place_type">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bus_station</item>
+        <item>church</item>
+        <item>doctor</item>
+        <item>hospital</item>
+        <item>mosque</item>
+        <item>movie_theater</item>
+        <item>hindu_temple</item>
+        <item>restaurant</item>
+    </string-array>
+
+    <string-array name="place_type_name">
+        <item>Airport</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bus Station</item>
+        <item>Church</item>
+        <item>Doctor</item>
+        <item>Hospital</item>
+        <item>Mosque</item>
+        <item>Movie Theater</item>
+        <item>Hindu Temple</item>
+        <item>Restaurant</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>Clinic</item>
+        <item>Pharmacy</item>
+        <item>Public Health Service</item>
+        <item>Salon Spa</item>
+        <item>Hospital</item>
+    </string-array>
+
+    <string name="about">Mantijeron apps adalah aplikasi yang digunakan untuk memetakan titik-titik yang berhubungan dengan bidang kesehatan pada wilayah mantijeron. Dibuat untuk memenuhi tugas SIG</string>
+
+</resources>

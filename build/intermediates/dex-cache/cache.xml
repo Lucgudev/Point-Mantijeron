@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\1414\.android\build-cache\fbfeeec21a98e7b43314d402015feb2bf94c681b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\Project\SIGViewer\app\build\intermediates\pre-dexed\debug\classes_45b6f6e4686659b49c8a6ecfec53152dbfd45322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\1414\.android\build-cache\4abfdd0d1830ecdc96c5dfa8d963b40f5bc9dbc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="E:\Project\SIGViewer\app\build\intermediates\pre-dexed\debug\classes_23ae0f419f3e4b7106e8424afb107edb2a169a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\1414\.android\build-cache\4da47796d8250b65c301340331160cbea048208a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\Project\SIGViewer\app\build\intermediates\pre-dexed\debug\classes_1680ffae6951fc2d360783d9efa36acf6c98e103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\1414\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="E:\Project\SIGViewer\app\build\intermediates\pre-dexed\debug\sqliteassethelper-2.0.1_d88c9e52a9b52b3ed290e46a18235f47b0ccd5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\1414\.android\build-cache\d8eb33b35aeb24d91a0319ea82585acfc6e049be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\Project\SIGViewer\app\build\intermediates\pre-dexed\debug\classes_0e630d970312851b40adc5973860d4c41ffe58a4.jar" />
+    </item>
+
+</items>
